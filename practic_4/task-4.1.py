@@ -116,4 +116,4 @@ while True:
         print("Пока!")
         break
     else:
-        print("Не понял...")
+        print("Не понял")
