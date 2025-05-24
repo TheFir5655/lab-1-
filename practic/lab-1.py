@@ -1,5 +1,5 @@
-j = 'Драгоценности'
-s = 'Камни'
+j = input()
+s = input()
 result = 0
 for i in j:
     for k in s:
